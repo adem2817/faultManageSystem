@@ -1,4 +1,4 @@
-```markdown
+
 # Fault System
 
 Fault System is a Spring Boot application designed to manage customer faults. It provides functionalities to create, update, cancel, and retrieve faults associated with customers.
@@ -148,4 +148,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License.
-```
